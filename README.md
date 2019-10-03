@@ -1,2 +1,2 @@
 # netwatcher-client-server
-client and server code base for node app that leverages web-socket connections to monitors remote file structure  file chagnes 
+Client and Server code base for Bash CLI NodeJs app that leverages web-socket connections to monitor remote file structure for file changes
